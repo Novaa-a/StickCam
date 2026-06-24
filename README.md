@@ -36,7 +36,7 @@ StickCam is an Android application that visualizes human poses in real-time usin
 1. Clone the repo:
 
    ```bash
-   git clone https://Novaa-a/yourusername/StickCam.git
+   git clone https://hithub.com/Novaa-a/StickCam.git
    ```
 2. Open it in Android Studio.
 3. Build and run on a real device (Camera & ML models require actual hardware).
@@ -47,7 +47,7 @@ StickCam is an Android application that visualizes human poses in real-time usin
 
 You can download the latest APK here:
 
-👉 [Download StickCam APK](https://github.com/KaiParker21/StickCam/releases/latest)
+👉 [Download StickCam APK](https://github.com/Novaa-a/StickCam/releases/latest)
 
 ---
 
@@ -85,7 +85,7 @@ Contributions are welcome! If you find bugs or want to suggest features:
 
 ## 🙋‍♂️ Author
 
-**Kai**
+**Nova**
 Studying CSE, passionate about app development, quantum computing, and AI/ML.
 
 ---
